@@ -44,7 +44,7 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
                                   `up`-->to go upward
                                   `down`-->to move downward directions.
 4. We have to move the player without colliding with enemy.
-5. If we reach to top the player will automatically get back to start position and you will be rewarded 10 points.
+5. If we reach to watermark area,the player will automatically get back to starting position and you will be rewarded 10 points.
 6. When ever player get collide with enemy-->game will ended automatically.
 7. Score will be displayed in the sweet Alert.
 8. If you want to play again press tryagain button.
