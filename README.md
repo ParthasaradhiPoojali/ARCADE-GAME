@@ -48,3 +48,7 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 6. When ever player get collide with enemy-->game will ended automatically.
 7. Score will be displayed in the sweet Alert.
 8. If you want to play again press tryagain button.
+
+Try using below link:
+
+https://parthasaradhipoojali.github.io/ARCADE-GAME/
